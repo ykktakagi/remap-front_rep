@@ -1,0 +1,116 @@
+#mapcontainer {
+    height: 600px; /* 必要に応じて高さを調整 */
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  /* タブコンテナのスタイル */
+  .tabs-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative; /* 子要素の位置調整のため */
+  }
+  
+  /* タブのスタイル */
+  .tabs {
+    display: flex;
+    justify-content: space-between; /* 左寄せと右寄せのためにスペースを追加 */
+    align-items: center; /* 水平方向に中央揃え */
+    margin-bottom: 0; /* 地図とのスペースを削除 */
+  }
+  
+  .tabs .left-buttons {
+    display: flex;
+  }
+  
+  .tabs button {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 0; /* ボタン同士の隙間をなくす */
+    border-right: none; /* 右側のボーダーを消して連続して見えるようにする */
+  }
+  
+  .tabs button:last-child {
+    border-right: 1px solid #ccc; /* 最後のボタンだけ右側のボーダーを追加 */
+  }
+  
+  .tabs button.active {
+    background-color: #ddd;
+    font-weight: bold;
+  }
+  
+  .side-panel {
+    position: absolute; /* 位置を絶対指定 */
+    right: 0;
+    top: 50px; /* ボタンの下に配置 */
+    width: 200px;
+    max-height: 0; /* 初期位置は非表示 */
+    background-color: white;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
+    overflow-y: hidden;
+    transition: max-height 0.3s ease-in-out;
+    z-index: 1000; /* 他のコンテンツの上に表示 */
+  }
+  
+  .side-panel.open {
+    max-height: 600px; /* 開いたときの最大高さ */
+  }
+  
+  .side-panel ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .side-panel li {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    line-height: 1.2; /* 行間を少し広げる */
+  }
+  
+  .side-panel .spot-no {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    border-radius: 50%;
+    background-color: #ddd;
+    text-align: center;
+    margin-right: 10px;
+    flex-shrink: 0;
+  }
+  
+  .side-panel .spot-name {
+    word-break: break-word; /* 長い単語を折り返す */
+    max-width: calc(100% - 34px); /* 数字の部分を除いた幅 */
+  }
+  
+  /* 地図上のカスタムアイコンのスタイル */
+  .custom-div-icon {
+    position: relative;
+    width: 45px;
+    height: 45px;
+  }
+  
+  .custom-div-icon img {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .custom-div-icon .spot-no {
+    position: absolute;
+    top: 3px;
+    left: -5px;
+    width: 45px;
+    text-align: center;
+    color: black;
+    font-size: 20px; /* フォントサイズをここで設定 */
+    font-weight: 300;
+  }
+  

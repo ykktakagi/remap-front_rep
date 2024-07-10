@@ -1,0 +1,347 @@
+[
+    {
+      "spot_no": "1",
+      "show_category": "公共",
+      "icon_category": "公共",
+      "spot_name": "板橋区立中央図書館",
+      "spot_latitude": 35.7627519,
+      "spot_longitude": 139.6814164
+    },
+    {
+      "spot_no": "2",
+      "show_category": "公共",
+      "icon_category": "公共",
+      "spot_name": "板橋区 常盤台区民事務所",
+      "spot_latitude": 35.7612267,
+      "spot_longitude": 139.6825255
+    },
+    {
+      "spot_no": "3",
+      "show_category": "公共",
+      "icon_category": "公共",
+      "spot_name": "板橋区立教育科学館",
+      "spot_latitude": 35.7633905,
+      "spot_longitude": 139.6796353
+    },
+    {
+      "spot_no": "7",
+      "show_category": "医療",
+      "icon_category": "医療",
+      "spot_name": "やごうクリニック",
+      "spot_latitude": 35.7637016,
+      "spot_longitude": 139.6838192
+    },
+    {
+      "spot_no": "8",
+      "show_category": "医療",
+      "icon_category": "医療",
+      "spot_name": "三浦内科医院",
+      "spot_latitude": 35.7669042,
+      "spot_longitude": 139.6860079
+    },
+    {
+      "spot_no": "9",
+      "show_category": "医療",
+      "icon_category": "医療",
+      "spot_name": "大久保医院",
+      "spot_latitude": 35.7630726,
+      "spot_longitude": 139.6802192
+    },
+    {
+      "spot_no": "12",
+      "show_category": "",
+      "icon_category": "医療",
+      "spot_name": "西尾医院",
+      "spot_latitude": 35.7623846,
+      "spot_longitude": 139.6832352
+    },
+    {
+      "spot_no": "13",
+      "show_category": "医療",
+      "icon_category": "医療",
+      "spot_name": "ときわ台レディースクリニック",
+      "spot_latitude": 35.7593558,
+      "spot_longitude": 139.6888018
+    },
+    {
+      "spot_no": "18",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "板橋区立上板橋第三中学校",
+      "spot_latitude": 35.763707,
+      "spot_longitude": 139.682379
+    },
+    {
+      "spot_no": "19",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "板橋区立常盤台小学校",
+      "spot_latitude": 35.7598113,
+      "spot_longitude": 139.6912391
+    },
+    {
+      "spot_no": "20",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "たつの子保育園",
+      "spot_latitude": 35.7633036,
+      "spot_longitude": 139.6835268
+    },
+    {
+      "spot_no": "21",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "公ときわ台保育園共",
+      "spot_latitude": 35.7621436,
+      "spot_longitude": 139.6838682
+    },
+    {
+      "spot_no": "22",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "わかたけかなえ保育園",
+      "spot_latitude": 35.7626546,
+      "spot_longitude": 139.6852287
+    },
+    {
+      "spot_no": "23",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "板橋区立 保育園・西前野",
+      "spot_latitude": 35.7653213,
+      "spot_longitude": 139.6831807
+    },
+    {
+      "spot_no": "24",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "エキチカ保育園Ⅱ",
+      "spot_latitude": 35.7628042,
+      "spot_longitude": 139.6790183
+    },
+    {
+      "spot_no": "25",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "ソラストときわ台保育園",
+      "spot_latitude": 35.7595162,
+      "spot_longitude": 139.6880829
+    },
+    {
+      "spot_no": "21",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "城北中学校・高等学校",
+      "spot_latitude": 35.75648960000001,
+      "spot_longitude": 139.679037
+    },
+    {
+      "spot_no": "17",
+      "show_category": "教育",
+      "icon_category": "教育",
+      "spot_name": "淑徳中学校・高等学校",
+      "spot_latitude": 35.7691788,
+      "spot_longitude": 139.6849791
+    },
+    {
+      "spot_no": "26",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "ベルクス 板橋中台店",
+      "spot_latitude": 35.7667202,
+      "spot_longitude": 139.6780902
+    },
+    {
+      "spot_no": "27",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "東武ストア 前野町店",
+      "spot_latitude": 35.76399,
+      "spot_longitude": 139.684659
+    },
+    {
+      "spot_no": "28",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "オオゼキときわ台店",
+      "spot_latitude": 35.7598706,
+      "spot_longitude": 139.6897178
+    },
+    {
+      "spot_no": "30",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "まいばすけっと 板橋常盤台2丁目店",
+      "spot_latitude": 35.763302,
+      "spot_longitude": 139.6899365
+    },
+    {
+      "spot_no": "31",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "三徳 ときわ台店",
+      "spot_latitude": 35.7637413,
+      "spot_longitude": 139.6871092
+    },
+    {
+      "spot_no": "33",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "イオンスタイル 板橋前野町",
+      "spot_latitude": 35.7710874,
+      "spot_longitude": 139.6917683
+    },
+    {
+      "spot_no": "35",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "イトーヨーカドー 上板橋店",
+      "spot_latitude": 35.7639749,
+      "spot_longitude": 139.6781368
+    },
+    {
+      "spot_no": "36",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "ヒューリック志村坂上",
+      "spot_latitude": 35.7687989,
+      "spot_longitude": 139.689996
+    },
+    {
+      "spot_no": "37",
+      "show_category": "買い物",
+      "icon_category": "買い物",
+      "spot_name": "エキア ときわ台",
+      "spot_latitude": 35.7586848,
+      "spot_longitude": 139.6898584
+    },
+    {
+      "spot_no": "40",
+      "show_category": "グルメ",
+      "icon_category": "グルメ",
+      "spot_name": "マルホベーカリー",
+      "spot_latitude": 35.7663803,
+      "spot_longitude": 139.6794986
+    },
+    {
+      "spot_no": "41",
+      "show_category": "グルメ",
+      "icon_category": "グルメ",
+      "spot_name": "ル・トレフル",
+      "spot_latitude": 35.762978,
+      "spot_longitude": 139.6801254
+    },
+    {
+      "spot_no": "42",
+      "show_category": "グルメ",
+      "icon_category": "グルメ",
+      "spot_name": "コパン モンマルトル",
+      "spot_latitude": 35.7636706,
+      "spot_longitude": 139.6791424
+    },
+    {
+      "spot_no": "47",
+      "show_category": "グルメ",
+      "icon_category": "グルメ",
+      "spot_name": "Garden villa cafe",
+      "spot_latitude": 35.763185,
+      "spot_longitude": 139.6900617
+    },
+    {
+      "spot_no": "46",
+      "show_category": "グルメ",
+      "icon_category": "グルメ",
+      "spot_name": "ビストロ・ラ・ノブティック",
+      "spot_latitude": 35.760007,
+      "spot_longitude": 139.6899713
+    },
+    {
+      "spot_no": "48",
+      "show_category": "公園・自然",
+      "icon_category": "公園・自然",
+      "spot_name": "板橋区平和公園",
+      "spot_latitude": 35.7633233,
+      "spot_longitude": 139.6811955
+    },
+    {
+      "spot_no": "52",
+      "show_category": "公園・自然",
+      "icon_category": "公園・自然",
+      "spot_name": "板橋区立常盤台北口公園",
+      "spot_latitude": 35.7624949,
+      "spot_longitude": 139.6877733
+    },
+    {
+      "spot_no": "53",
+      "show_category": "公園・自然",
+      "icon_category": "公園・自然",
+      "spot_name": "板橋区立西前野公園",
+      "spot_latitude": 35.7651379,
+      "spot_longitude": 139.6845173
+    },
+    {
+      "spot_no": "55",
+      "show_category": "公園・自然",
+      "icon_category": "公園・自然",
+      "spot_name": "板橋区立水久保公園",
+      "spot_latitude": 35.7613486,
+      "spot_longitude": 139.6843583
+    },
+    {
+      "spot_no": "57",
+      "show_category": "公園・自然",
+      "icon_category": "公園・自然",
+      "spot_name": "城北中央公園",
+      "spot_latitude": 35.7560136,
+      "spot_longitude": 139.6739444
+    },
+    {
+      "spot_no": "58",
+      "show_category": "スポーツ",
+      "icon_category": "スポーツ",
+      "spot_name": "セントラルウェルネスクラブ24 ときわ台",
+      "spot_latitude": 35.76401,
+      "spot_longitude": 139.687184
+    },
+    {
+      "spot_no": "59",
+      "show_category": "スポーツ",
+      "icon_category": "スポーツ",
+      "spot_name": "公板橋天然温泉 スパディオ共",
+      "spot_latitude": 35.7643337,
+      "spot_longitude": 139.6999303
+    },
+    {
+      "spot_no": "60",
+      "show_category": "スポーツ",
+      "icon_category": "スポーツ",
+      "spot_name": "スポーツ,ファストジム24上板橋店",
+      "spot_latitude": 35.76385399999999,
+      "spot_longitude": 139.6765019
+    },
+    {
+      "spot_no": "4",
+      "show_category": "交通",
+      "icon_category": "交通",
+      "spot_name": "常盤台三丁目（バス）",
+      "spot_latitude": 35.7637333,
+      "spot_longitude": 139.6840492
+    },
+    {
+      "spot_no": "5",
+      "show_category": "交通",
+      "icon_category": "交通",
+      "spot_name": "上板橋駅",
+      "spot_latitude": 35.7635268,
+      "spot_longitude": 139.6764216
+    },
+    {
+      "spot_no": "6",
+      "show_category": "交通",
+      "icon_category": "交通",
+      "spot_name": "ときわ台",
+      "spot_latitude": 35.7587403,
+      "spot_longitude": 139.6895284
+    }
+  ]
+  
